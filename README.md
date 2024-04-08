@@ -53,10 +53,11 @@
 
 
 ## Output:
-
-
-### Name:
-### Register Number: 
+### Name: GIRITHICK ROHAN N
+### Register Number: 212223230063
+![image](https://github.com/Girithickrohan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849207/e32404c9-8f18-4e31-852d-85f8d8fe1372)
+![image](https://github.com/Girithickrohan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849207/f7f14a0c-7e7d-4a06-a3e9-2985b51886c1)
+![image](https://github.com/Girithickrohan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849207/6841ede0-cce2-48dd-ac9f-1686a4f26c64)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
